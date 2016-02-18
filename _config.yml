@@ -9,13 +9,13 @@ highlighter: rouge
 # so be sure to set them if your theme uses them.
 #
 title : Jekyll Bootstrap
-tagline: Site Tagline
+tagline: Technology Evangelist by Day, Evil Magician by Night
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : José Castro
+  email : cog@cpan.org
+  github : cog
+  twitter : jose_castro
+#  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
